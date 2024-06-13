@@ -25,6 +25,10 @@ PrepPal is an AI-powered mock interview platform tailored to help users enhance 
 - **Gemini AI**: AI technology used to generate interview questions and evaluate user responses.
 - **Neon**: Serverless PostgreSQL with dynamic scaling and advanced features for optimized database performance.
 
+## Hosted On
+
+https://prep-pal-delta.vercel.app
+
 
 
 
